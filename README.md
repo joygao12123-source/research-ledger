@@ -5,6 +5,8 @@
 
 [English below](#english)
 
+<p align="center"><img src="docs/screenshot-today.png" width="520" alt="研究账本：今天视图"></p>
+
 ---
 
 ## 这是什么
@@ -74,6 +76,10 @@
 ```
 
 `tools/main.swift` 是离屏渲染预览工具，`./build/render build` 会把五个视图各画一张 PNG。
+
+## 如果它对你有用
+
+点一个 star，让更多没动力的博士生搜得到它。
 
 ---
 
@@ -148,6 +154,10 @@ Everything is in `Sources/App.swift`, one SwiftUI file, no dependencies. Needs X
 ```
 
 `tools/main.swift` is an off-screen preview renderer: `./build/render build` writes one PNG per view.
+
+### If this helped
+
+Star it, so other PhD students who've lost their drive can find it.
 
 ---
 
